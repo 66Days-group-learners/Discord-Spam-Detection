@@ -3,6 +3,7 @@
 
 ## Introduction
 
+We aim to build a bot to detect and remove spam messages on the 66 Days of Data server. 
 
 ## Authors
 

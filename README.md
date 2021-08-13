@@ -9,6 +9,16 @@ We aim to build a bot to detect and remove spam messages on the 66 Days of Data 
 
 * [William Guesdon](https://github.com/wguesdon)
 
+## ToDo List
+
+```
+. Collect relevant datasets for the project -> William
+. Research method for the scrapping of Discord server message. 
+. Research examples of spam detection models:
+	. Naive Bayes
+	. Logistic regression
+	. Neural Network
+```
 
 ## Structure of the repository
 

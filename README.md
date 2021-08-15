@@ -12,7 +12,7 @@ We aim to build a bot to detect and remove spam messages on the 66 Days of Data 
 ## ToDo List
 
 ```
-. Collect relevant datasets for the project -> William
+. Collect relevant datasets for the project
 . Research method for the scrapping of Discord server message. 
 . Research examples of spam detection models:
 	. Naive Bayes

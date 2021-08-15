@@ -1,4 +1,4 @@
-# Discord-Spam-Detection
+# Discord Spam Detection
 
 
 ## Introduction

@@ -16,13 +16,20 @@ We aim to build a bot to detect and remove spam messages on the 66 Days of Data 
 ## ToDo List
 
 ```
-. Collect relevant datasets for the project
-. Research method for the scrapping of Discord server message. 
+x Collect relevant datasets for the project -> William, Rea
+. Research method for the scrapping of Discord server message. -> William
 . Research examples of spam detection models:
 	. Naive Bayes
 	. Logistic regression
 	. Neural Network
 ```
+
+## Datasets
+
+* [SMS Spam Collection Dataset](https://www.kaggle.com/uciml/sms-spam-collection-dataset)
+* [Email Spam](https://www.kaggle.com/veleon/ham-and-spam-dataset)
+* [Spam or Not Spam Dataset](https://www.kaggle.com/ozlerhakan/spam-or-not-spam-dataset)
+* [Spam Classification for Basic NLP](https://www.kaggle.com/chandramoulinaidu/spam-classification-for-basic-nlp)
 
 ## Structure of the repository
 

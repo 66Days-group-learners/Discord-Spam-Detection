@@ -22,6 +22,7 @@ x Collect relevant datasets for the project -> William, Rea
 	. Naive Bayes
 	. Logistic regression
 	. Neural Network
+. Build and test a SPAM detection model.
 . Research how to code a discord bot with python.
 . Research how to deploy a discord bot on AWS
 ```

@@ -5,9 +5,13 @@
 
 We aim to build a bot to detect and remove spam messages on the 66 Days of Data server. 
 
-## Authors
+## Authors (Alphabetic order)
 
 * [William Guesdon](https://github.com/wguesdon)
+
+## Authors contribution
+
+* [William Guesdon](https://github.com/wguesdon): Configuration of GitHub for the project. 
 
 ## ToDo List
 

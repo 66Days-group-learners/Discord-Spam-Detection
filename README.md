@@ -5,7 +5,7 @@
 
 We aim to build a bot to detect and remove spam messages on the [66 Days of Data](https://discord.gg/wV2x8KMSeC) server. 
 
-## Authors (Alphabetic order)
+## Authors (alphabetic order)
 
 * [William Guesdon](https://github.com/wguesdon)
 

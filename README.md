@@ -25,6 +25,8 @@ x Collect relevant datasets for the project -> William, Rea
 . Build and test a SPAM detection model.
 . Research how to code a discord bot with python.
 . Research how to deploy a discord bot on AWS
+. Build the SPAM detection bot.
+. Deploy the SPAM detection bot on AWS.
 ```
 
 ## Datasets

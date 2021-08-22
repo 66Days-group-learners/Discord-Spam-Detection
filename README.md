@@ -12,6 +12,7 @@ We aim to build a bot to detect and remove spam messages on the [66 Days of Data
 ## Authors contribution
 
 * [William Guesdon](https://github.com/wguesdon): Configuration of GitHub for the project. 
+* [Rea Kalampaliki](https://github.com/ReaKal): Coming soon.
 
 ## ToDo List
 

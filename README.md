@@ -19,11 +19,11 @@ We aim to build a bot to detect and remove spam messages on the [66 Days of Data
 ```
 x Collect relevant datasets for the project -> William, Rea
 . Research method for the scrapping of Discord server message. -> William
-. Research examples of spam detection models:
+. Research examples of spam detection models: Jayashree
 	. Naive Bayes
 	. Logistic regression
 	. Neural Network
-. Build and test a SPAM detection model.
+. Build and test a SPAM detection model. :Jayashree
 . Research how to code a discord bot with python.
 . Research how to deploy a discord bot on AWS
 . Build the SPAM detection bot.

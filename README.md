@@ -5,7 +5,7 @@
 
 We aim to build a bot to detect and remove spam messages on the [66 Days of Data](https://discord.gg/wV2x8KMSeC) server. 
 
-# Project timeline
+## Project timeline
 
 * Dataset collection: 2 months
 * Model building 2 months

@@ -18,7 +18,9 @@ We aim to build a bot to detect and remove spam messages on the [66 Days of Data
 
 ## Authors contribution
 
-* [William Guesdon](https://github.com/wguesdon): Configuration of GitHub for the project. 
+* [William Guesdon](https://github.com/wguesdon):
+	* Configuration of GitHub for the project. 
+	* Developing a Naive Bayes model based on the Kaggle Email Dataset.
 * [Rea Kalampaliki](https://github.com/ReaKal): Coming soon.
 
 ## ToDo List
